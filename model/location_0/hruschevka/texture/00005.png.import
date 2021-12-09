@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/00005.png-bc6d07b409bfd5d7b19c2d3e845decd1.stex"
+path="res://.import/00005.png-70f49b037e7bc5ecf2eb518838aaf9a3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://model/terraine/home/texture/00005.png"
-dest_files=[ "res://.import/00005.png-bc6d07b409bfd5d7b19c2d3e845decd1.stex" ]
+source_file="res://model/location_0/hruschevka/texture/00005.png"
+dest_files=[ "res://.import/00005.png-70f49b037e7bc5ecf2eb518838aaf9a3.stex" ]
 
 [params]
 

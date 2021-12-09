@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://model/terraine/home/hruschevka.glb" type="PackedScene" id=1]
+[ext_resource path="res://model/location_0/hruschevka/export/dveri_v_podezd.glb" type="PackedScene" id=1]
 
 [sub_resource type="ProceduralSky" id=1]
 sky_top_color = Color( 1, 1, 1, 1 )
