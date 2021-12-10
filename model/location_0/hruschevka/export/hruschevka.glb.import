@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/dveri_v_podezd.glb-238f25deecf0b904d7a7ff8c576c6271.scn"
+path="res://.import/hruschevka.glb-7014ce3aa8d4916ed27199709a33a920.scn"
 
 [deps]
 
-source_file="res://model/location_0/hruschevka/export/dveri_v_podezd.glb"
-dest_files=[ "res://.import/dveri_v_podezd.glb-238f25deecf0b904d7a7ff8c576c6271.scn" ]
+source_file="res://model/location_0/hruschevka/export/hruschevka.glb"
+dest_files=[ "res://.import/hruschevka.glb-7014ce3aa8d4916ed27199709a33a920.scn" ]
 
 [params]
 
